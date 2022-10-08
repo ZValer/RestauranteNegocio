@@ -8,6 +8,6 @@ Para el éxito de un local, además de buena comida, es esencial proveer de un s
 
 Algoritmo
 
-Desde el programa seleccionarías los alimentos que quieres pedir y mandar tu orden. Igualmente una vez que se reciba la orden se podrá agregar más cosas a tu pedido o pedir servicios extra, como servilletas, condimentos especiales, utensilios extra, entre otros. Posteriomente desde el programa hay una opción de meter tus datos y pagar con tarjeta.
+Desde el programa seleccionarías los alimentos que quieres pedir y mandar tu orden. Después despliega el ticket y calcula la cuenta total. Luego tienes la opción de seguir agregando pedidos, para posteriormente desplegar las ventas de todos los pedidos dados. 
 
 El programa ayudaría tanto a los comensales como a los dueños y a trabajadores del restaurante haciendo el proceso más eficiente, dinámico y sencillo.
